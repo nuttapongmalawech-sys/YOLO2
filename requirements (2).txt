@@ -1,6 +1,5 @@
 opencv-python
-ultralytics
-ultralytics
 streamlit
+ultralytics
+Pillow
 numpy
-ultralytics>=8.0.0
