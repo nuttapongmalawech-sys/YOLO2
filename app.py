@@ -6,6 +6,7 @@ import numpy as np
 
 st.title("YOLO Image Detection App :)")
 
+
 # Load YOLO model
 model = YOLO("best.pt")
 # model = YOLO("yolo11n.pt")
