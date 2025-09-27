@@ -1,5 +1,6 @@
 opencv-python
 ultralytics
+ultralytics
 streamlit
 numpy
 ultralytics>=8.0.0
